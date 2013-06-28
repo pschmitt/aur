@@ -1,0 +1,6 @@
+[submodule "g9xled"]
+	path = g9xled
+	url = https://github.com/pschmitt/g9xled.git
+[submodule "phoebetria"]
+	path = phoebetria
+	url = https://github.com/pschmitt/phoebetria.git
