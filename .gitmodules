@@ -7,3 +7,6 @@
 [submodule "python2-g9led"]
 	path = python2-g9led
 	url = git@github.com:pschmitt/python2-g9led.git
+[submodule "protege"]
+	path = protege
+	url = git@github.com:pschmitt/protege.git
