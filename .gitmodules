@@ -10,3 +10,6 @@
 [submodule "protege"]
 	path = protege
 	url = git@github.com:pschmitt/protege.git
+[submodule "dialogblocks"]
+	path = dialogblocks
+	url = git@github.com:pschmitt/dialogblocks.git
