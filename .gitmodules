@@ -6,10 +6,10 @@
 	url = https://github.com/pschmitt/phoebetria.git
 [submodule "python2-g9led"]
 	path = python2-g9led
-	url = git@github.com:pschmitt/python2-g9led.git
+	url = https://github.com/pschmitt/python2-g9led.git
 [submodule "protege"]
 	path = protege
-	url = git@github.com:pschmitt/protege.git
+	url = https://github.com/pschmitt/protege.git
 [submodule "dialogblocks"]
 	path = dialogblocks
-	url = git@github.com:pschmitt/dialogblocks.git
+	url = https://github.com/pschmitt/dialogblocks.git
