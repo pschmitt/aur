@@ -13,3 +13,9 @@
 [submodule "dialogblocks"]
 	path = dialogblocks
 	url = https://github.com/pschmitt/dialogblocks.git
+[submodule "pilight"]
+	path = pilight
+	url = https://github.com/pschmitt/pilight
+[submodule "pilight-git"]
+	path = pilight-git
+	url = https://github.com/pschmitt/pilight-git
