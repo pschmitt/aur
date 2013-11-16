@@ -1,21 +1,21 @@
 [submodule "g9xled"]
 	path = g9xled
-	url = https://github.com/pschmitt/g9xled.git
+	url = https://github.com/pschmitt/aur-g9xled.git
 [submodule "phoebetria"]
 	path = phoebetria
-	url = https://github.com/pschmitt/phoebetria.git
+	url = https://github.com/pschmitt/aur-phoebetria.git
 [submodule "python2-g9led"]
 	path = python2-g9led
-	url = https://github.com/pschmitt/python2-g9led.git
+	url = https://github.com/pschmitt/aur-python2-g9led.git
 [submodule "protege"]
 	path = protege
-	url = https://github.com/pschmitt/protege.git
+	url = https://github.com/pschmitt/aur-protege.git
 [submodule "dialogblocks"]
 	path = dialogblocks
-	url = https://github.com/pschmitt/dialogblocks.git
+	url = https://github.com/pschmitt/aur-dialogblocks.git
 [submodule "pilight"]
 	path = pilight
-	url = https://github.com/pschmitt/pilight
+	url = https://github.com/pschmitt/aur-pilight
 [submodule "pilight-git"]
 	path = pilight-git
-	url = https://github.com/pschmitt/pilight-git
+	url = https://github.com/pschmitt/aur-pilight-git
