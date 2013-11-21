@@ -13,3 +13,6 @@
 [submodule "dialogblocks"]
 	path = dialogblocks
 	url = git@github.com:pschmitt/dialogblocks.git
+[submodule "syncdrive"]
+	path = syncdrive
+	url = https://github.com/pschmitt/aur-syncdrive.git
