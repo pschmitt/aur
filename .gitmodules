@@ -22,6 +22,6 @@
 [submodule "pilight-git"]
 	path = pilight-git
 	url = https://github.com/pschmitt/aur-pilight-git
-[submodule "monogame-monodev-addin"]
-	path = monogame-monodev-addin
-	url = https://github.com/pschmitt/aur-monodevelop-monogame-addin.git
+[submodule "monogame-monodev-addin-git"]
+	path = monogame-monodev-addin-git
+	url = https://github.com/pschmitt/aur-monodevelop-monogame-addin-git.git
