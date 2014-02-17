@@ -25,3 +25,6 @@
 [submodule "monogame-monodev-addin-git"]
 	path = monogame-monodev-addin-git
 	url = https://github.com/pschmitt/aur-monodevelop-monogame-addin-git.git
+[submodule "wallabag"]
+	path = wallabag
+	url = https://github.com/pschmitt/aur-wallabag.git
