@@ -28,3 +28,6 @@
 [submodule "wallabag"]
 	path = wallabag
 	url = https://github.com/pschmitt/aur-wallabag.git
+[submodule "voodoo-camera-tracker"]
+	path = voodoo-camera-tracker
+	url = https://github.com/pschmitt/aur-voodoo-camera-tracker.git
