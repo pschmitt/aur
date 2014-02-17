@@ -1,0 +1,13 @@
+post_install() {
+  printf " A 10 minute interval, random, color-setting LED daemon has been added to the package.  To enable run:" | fmt -c -w 80 -g 80
+  printf " sudo systemctl start  g9ledd\n"
+  printf " sudo systemctl enable g9ledd\n"
+}
+
+post_upgrade() {
+
+
+post_install
+
+}
+
