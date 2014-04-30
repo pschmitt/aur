@@ -31,3 +31,9 @@
 [submodule "voodoo-camera-tracker"]
 	path = voodoo-camera-tracker
 	url = https://github.com/pschmitt/aur-voodoo-camera-tracker.git
+[submodule "python2-pagekite"]
+	path = python2-pagekite
+	url = git@github.com:pschmitt/aur-python2-pagekite.git
+[submodule "python2-hpilo"]
+	path = python2-hpilo
+	url = git@github.com:pschmitt/aur-python-hpilo.git
