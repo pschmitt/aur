@@ -40,3 +40,12 @@
 [submodule "fakexrandr"]
 	path = fakexrandr
 	url = https://github.com/pschmitt/aur-fakexrandr-git
+[submodule "python2-flask-cors"]
+	path = python2-flask-cors
+	url = https://github.com/pschmitt/aur-python2-flask-cors.git
+[submodule "python2-backports.lzma"]
+	path = python2-backports.lzma
+	url = https://github.com/pschmitt/aur-python2-backports.lzma.git
+[submodule "docker-registry"]
+	path = docker-registry
+	url = https://github.com/pschmitt/aur-docker-registry.git
