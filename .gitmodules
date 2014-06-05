@@ -49,3 +49,6 @@
 [submodule "docker-registry"]
 	path = docker-registry
 	url = https://github.com/pschmitt/aur-docker-registry.git
+[submodule "python2-crontab"]
+	path = python2-crontab
+	url = https://github.com/pschmitt/aur-python-crontab.git
